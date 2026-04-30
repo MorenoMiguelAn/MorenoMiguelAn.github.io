@@ -11,6 +11,7 @@ I am a Electrical Engineering Major at California State University, Fullerton an
 **Reflection:**  
 
 I enjoyed this lab's part-1 as it was the first time I really saw how math, simple loops, and nested loops could work together to create different patterns to solve problems. During this lab I experimented with different shapes in programming and used math to get the results I needed to finish the lab, which then helped me understand programming more in general but more specifically, understand how nested loops actually work. I believe that this lab is the point where everything started building upward, as I've felt like a more confident programmer since taking this lab.
+
 ---
 
 ## Lab 07 — Randomness and If‑Statements  
